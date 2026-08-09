@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/jaikwangg/myleetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaikwangg/myleetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/jaikwangg/myleetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaikwangg/myleetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -56,4 +58,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaikwangg/myleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
