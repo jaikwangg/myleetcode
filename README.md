@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaikwangg/myleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaikwangg/myleetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaikwangg/myleetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaikwangg/myleetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Backtracking
@@ -56,10 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaikwangg/myleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaikwangg/myleetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaikwangg/myleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaikwangg/myleetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
