@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaikwangg/myleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/jaikwangg/myleetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaikwangg/myleetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaikwangg/myleetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaikwangg/myleetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jaikwangg/myleetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Minimax
@@ -92,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jaikwangg/myleetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
