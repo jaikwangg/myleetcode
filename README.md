@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/jaikwangg/myleetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaikwangg/myleetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/jaikwangg/myleetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaikwangg/myleetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaikwangg/myleetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -69,11 +71,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jaikwangg/myleetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,10 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +104,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jaikwangg/myleetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
