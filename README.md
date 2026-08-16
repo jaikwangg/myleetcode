@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jaikwangg/myleetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jaikwangg/myleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/jaikwangg/myleetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -117,5 +118,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jaikwangg/myleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/jaikwangg/myleetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
