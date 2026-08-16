@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaikwangg/myleetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/jaikwangg/myleetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/jaikwangg/myleetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jaikwangg/myleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/jaikwangg/myleetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/jaikwangg/myleetcode/tree/main/2029-stone-game-ix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/jaikwangg/myleetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
